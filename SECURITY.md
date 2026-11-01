@@ -3,8 +3,8 @@
 ## Як повідомити про вразливість
 Будь ласка, не створюйте публічних issue про вразливості.
 
-- Скористайтеся приватним повідомленням: вкладка **Security → Report a vulnerability** у цьому репозиторії, або
-- надішліть опис на <E-MAIL> з темою `[SECURITY]`.
+Скористайтеся приватним повідомленням: вкладка **Security → Report a vulnerability** у цьому репозиторії
+(https://github.com/veronikakravchinska/mur-cat-cafe/security/advisories/new).
 
 Опишіть, що знайдено, як це відтворити і який можливий вплив.
 
