@@ -21,6 +21,7 @@
 Git Flow: `main` — релізи, `develop` — інтеграція (гілка за замовчуванням),
 `feature/<№ issue>-<опис>` від `develop`, `release/x.y.z`, `hotfix/<опис>` від `main`.
 Коміти — у форматі Conventional Commits з областю `cats`, підписані GPG-ключем.
+Детальні правила — у [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Безпека
 Про вразливості повідомляйте за правилами з [SECURITY.md](SECURITY.md).
